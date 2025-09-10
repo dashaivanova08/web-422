@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Ivanova</title>
+</head>
+<body>
+    <div> </div>
+    <h1> Hello World! </h1>
+    <h2> Текст поменьше </h2>
+    <h3> Еще меньше </h3>
+    <h4>И еще поменьше </h4>
+    <h5> И еще</h5>
+    <h6> И совсем маленький</h6>
+    <img src="https://avatars.mds.yandex.net/i?id=33b16c7985996c061cbd785c59a79eb570967d34-13279719-images-thumbs&n=13" alt="123">
+    <p>
+        <a href="https://i.pinimg.com/originals/c0/2d/11/c02d11b807f28927def41b6346cb6da0.jpg"> Окак</a>
+    </p>
+    <ul>
+        <h3>Список:</h3>
+        <li>Donec in quam ultricies </li>
+        <li>Aliquam augue porta </li>
+        <li>Class aptent taciti sociosqu ad litora torquent per</li>
+     </ul>
+    <p><b>Curabitur consequat</b> gravida metus <small>sit amet dignissim</small>. Nam a diam fermentum, porttitor erat ut, pretium velit. Curabitur sed dolor nunc. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed eu sem pulvinar, elementum massa eget, gravida arcu.</p> 
+    <p><i>Etiam eleifend lacinia lacus ac convallis. Aenean tempus tempor bibendum. Maecenas vulputate mi ut ex elementum, non condimentum lectus dignissim. Sed a turpis pretium, consectetur elit a, ornare ex. </i> </p>
+</body>
+</html>
