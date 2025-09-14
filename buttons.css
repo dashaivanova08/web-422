@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(https://avatars.mds.yandex.net/i?id=c50b9bf7c3b0aaab3df220d8ab04c94e_l-4476958-images-thumbs&n=13);
+    backdrop-filter: blur(10px); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+     
+}
+
+.button {
+    padding: 15px 30px;
+    font-size: 16px;
+    color: white;
+    background-color: #6f6196;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    transition: box-shadow 0.3s, transform 0.3s;
+    margin: 0 15px;
+}
+
+.button:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+    transform: translateY(-2px);
+}
